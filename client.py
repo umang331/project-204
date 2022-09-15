@@ -14,8 +14,8 @@ screen_width = None
 screen_height = None
 
 SERVER = None
-PORT  = 8000
 IP_ADDRESS = '127.0.0.1'
+PORT  = 5500
 playerName = None
 
 canvas1 = None
