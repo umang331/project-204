@@ -4,7 +4,7 @@ import time, random
 
 SERVER = None
 IP_ADDRESS = '127.0.0.1'
-PORT = 8000
+PORT = 5500
 
 CLIENTS = {}
 flashNumberList =[ i  for i in range(1, 91)]
